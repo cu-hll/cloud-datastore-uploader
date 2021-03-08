@@ -1,0 +1,12 @@
+{
+  "name": "cloud-datastore-uploader",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "repository": "git@github.com:vaccine-lang/cloud-datastore-uploader.git",
+  "author": "Moacir P. de Sá Pereira <github@moacir.moacir.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@google-cloud/datastore": "^6.3.1"
+  }
+}
